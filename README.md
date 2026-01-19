@@ -10,9 +10,10 @@ The game presents the arguments side by side, also here are the difficulties:
 This game aims to improve your vocabulary and critical thinking skills.
 
 Requirements: 
-- Have Python installed
 - 10-20 GB of storage
+- A Decent Internet Connection
 
 Contributors: 
 - Akira Ytom (coder) 
+
 
